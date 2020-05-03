@@ -13,4 +13,8 @@ I am  [Hemanth Haridas](https://www.linkedin.com/in/hhemanth/). I live in Sydney
 [Github](https://github.com/hhemanth)  
 
 
-
+{{< imgAbs
+pathURL="https://hemanth-blog.s3-ap-southeast-2.amazonaws.com/hemanth_s_img2.png"
+alt="Some description"
+class=""
+style="border-radius: 50%; width: 200px;display: block; margin-left: auto;margin-right: auto;" >}}
