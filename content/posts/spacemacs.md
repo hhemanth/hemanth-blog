@@ -1,5 +1,5 @@
 ---
-title: "Introduction to Spacemacs"
+title: "Spacemacs Tutorial Series Part 1"
 date: 2020-04-10
 publishdate: 2020-04-10
 lastmod: 2020-04-10
