@@ -3,7 +3,7 @@ title: Founders guide to building Proof Of Concept.
 description: "Tech advice on building the version 0 of the product "
 date: 2020-06-08
 lastmod: 2020-06-08
-tags: [enumerables, collections, select, flat_map, detect, arrays]
+tags: [Startups, POC, Proof of Concept, Tech Advice, Startup CTO]
 
 ---
 {{< imgAbs 
